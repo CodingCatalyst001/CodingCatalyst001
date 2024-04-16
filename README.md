@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodingCatalyst001
+- 👋 Hi, I’m @domick coding
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on friendly community 
