@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on friendly community 
 - 📫 How to reach me on tiktok
-- 😄 Pronouns⤵️
+- 😄 Pronouns him/he
 - ⚡ Fun fact: nah who give up fvk up
 
 <!---
